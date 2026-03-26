@@ -4,11 +4,6 @@ A beginner-friendly, interactive guide to essential Git commands — built as a 
 
 🔗 **Live Site:** [www.gitcheat.com](https://www.gitcheat.com)
 
----
-
-![Git Essentials Preview](preview.png)
-
----
 
 ## ✨ Features
 
