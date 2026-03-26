@@ -2,7 +2,7 @@
 
 A beginner-friendly, interactive guide to essential Git commands — built as a single-page HTML project with zero dependencies.
 
-🔗 **Live Site:** [starcoder346.github.io/git-essentials](https://starcoder346.github.io/git-essentials/)
+🔗 **Live Site:** [starcoder346.github.io/git-essentials](https://starcoder346.github.io/)
 
 
 ## ✨ Features
@@ -26,9 +26,6 @@ git clone https://github.com/starcoder346/git-essentials.git
 open index.html
 ```
 
-Or just visit **[www.gitcheat.com](https://www.gitcheat.com)**
-
----
 
 ## 🗂️ Commands Covered
 
