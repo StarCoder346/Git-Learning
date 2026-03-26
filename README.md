@@ -2,7 +2,7 @@
 
 A beginner-friendly, interactive guide to essential Git commands — built as a single-page HTML project with zero dependencies.
 
-🔗 **Live Site:** [git_learning](https://starcoder346.github.io/](https://gitlearning-cyan.vercel.app/)
+🔗 **Live Site:** [git_learning](https://gitlearning-cyan.vercel.app/)
 
 
 ## ✨ Features
